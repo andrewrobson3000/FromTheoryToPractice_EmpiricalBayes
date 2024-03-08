@@ -1,2 +1,23 @@
-# romTheoryToPractice_EmpiricalBayes
-Explore the world of Empirical Bayes with practical guides and examples. This repository offers a deep dive into non-parametric Empirical Bayes methods, providing insights, code samples, and applications to understand and apply Bayesian inference in everyday data analysis. Perfect for  data scientists, and anyone curious about Bayesian methods.
+# Empirical Bayes Methods: A Practical Guide
+
+Welcome to our repository, where we demystify Empirical Bayes methods and showcase their practical applications in data analysis. Dive into the intuitive and mathematical underpinnings of both parametric and non-parametric Empirical Bayes approaches, enriched with real-life examples and code samples.
+
+## Summary
+
+Empirical Bayes methods offer a powerful framework for statistical inference, allowing us to borrow strength from data to estimate parameter distributions. This repository covers:
+
+- **Parametric Empirical Bayes (ParametricEB)**: Assumes that parameters $\theta_i$ are independently and identically distributed (iid) with distribution $\pi(\theta|\psi)$, where $\psi$ is a hyperparameter. By estimating $\hat{\psi}$ from the data, we avoid integrating over hyperparameters in hierarchical models, effectively pulling estimates towards a common mean and creating shrinkage estimators. However, this approach might risk overfitting due to the dual use of data.
+
+- **Non-Parametric Empirical Bayes (NonParametricEB)**: Operates under the assumption that $\theta_i$ are iid from some distribution $\pi$, directly estimated from the data as $\hat{\pi}$. This method doesn't assume a parametric form for the prior distribution, offering flexibility in modeling complex or unknown underlying data distributions.
+
+## Repository Contents
+
+- **Guides**: Detailed explanations of parametric and non-parametric Empirical Bayes methods, their assumptions, and implications.
+- **Examples**: Real-life applications showcasing how these methods can be applied to solve practical problems in data analysis.
+- **Code Samples**: Implementations and tutorials in Python, demonstrating the step-by-step application of Empirical Bayes techniques.
+
+## Getting Started
+
+To explore the materials in this repository, clone it to your local machine.
+
+
