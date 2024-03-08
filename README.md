@@ -1,6 +1,6 @@
 # Empirical Bayes Methods: A Practical Guide
 
-Welcome to our repository, where we demystify Empirical Bayes methods and showcase their practical applications in data analysis. Dive into the intuitive and mathematical underpinnings of both parametric and non-parametric Empirical Bayes approaches, enriched with real-life examples and code samples.
+Welcome to this repository, where I demystify Empirical Bayes methods and showcase their practical applications in data analysis. Dive into the intuitive and mathematical underpinnings of both parametric and non-parametric Empirical Bayes approaches, enriched with real-life examples and code samples.
 
 ## Summary
 
