@@ -20,4 +20,6 @@ Empirical Bayes methods offer a powerful framework for statistical inference, al
 
 To explore the materials in this repository, clone it to your local machine.
 
+![posterior_means_comparison](https://github.com/andrewrobson3000/FromTheoryToPractice_EmpiricalBayes/assets/87878168/0ecc4563-ff50-493e-a335-60d4e6eae4a7)
+
 
